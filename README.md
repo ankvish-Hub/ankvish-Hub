@@ -125,7 +125,7 @@ const ankit = {
   backend: ["Node.js", "Express.js"],
   database: ["MySQL", "MongoDB"],
   tools: ["Git", "GitHub", "Postman", "AWS"],
-  learning: ["AI/ML", "System Design", "DSA"],
+  learning: ["AI/ML", "LLD", "DSA"],
 };
 ````
 
